@@ -1,0 +1,219 @@
+html,body {
+    font-size: 13px;
+    margin: 0;
+    font-family: Arial, Tahoma, sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+    padding: 5px;
+    
+}
+
+hr {
+    border: none;
+    background-color:orange;
+    color: orange;
+    height: 3px;
+    width: 100%;
+    margin-top: 0;
+}
+
+.bottom {
+    background-color: #626669;
+    color: #626669;
+    width: 100%;
+    height: 1px;
+    border: none;
+    filter: alpha
+}
+
+.conteiner {
+    width: auto;
+    height: 100%;
+}
+
+.search {
+    width: 1833px;
+    height: 50px;
+    margin: auto;
+    max-width: 97rem;
+    
+}
+
+.block-one {
+    width: 166px;
+    height: 47px;
+    margin: 0;
+    float: left;
+    padding: 0 8px;
+}
+
+.block-one img {
+    width: 150px;
+    height: 30px;
+}
+
+
+
+.block-two {
+    width: 240px;
+    height: 33px;
+    float: left;
+    padding: 5px;
+}
+
+
+ul  {
+    width: 240px;
+    height: 29px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #535a60;
+    padding: 2px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.nav-about {
+    display: inline-block;
+   margin: 7px 10px; 
+   text-decoration: none;
+    color: #535a60;
+    padding: 2px;
+}
+
+.nav-products {
+    display: inline-block;
+    margin: 7px 10px; 
+    text-decoration: none;
+    color: #535a60;
+    padding: 2px;
+}
+
+.nav-for {
+    display: inline-block;
+   margin: 7px 10px;
+   text-decoration: none;
+    color: #535a60;
+    padding: 2px;
+}
+
+.block-three {
+    width: 670px;
+    height: 33px;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+input  {
+    width: 662px;
+    height: 27px;
+    margin-top: 4px;
+}
+
+.block-four {
+    width: 140px;
+    height: 33px;
+    float: left;
+    margin-top: 4px;
+    padding-left: 15px;
+}
+
+button {
+    height: 33px;
+}
+
+.green {
+    width: 58px;
+    height: 33px;
+    background: #e1ecf4;
+    
+    
+}
+
+.blue {
+    width: 67px;
+    height: 33px;
+    background:#0095ff;
+    color: white;
+    
+    
+    
+}
+
+.content {
+    width: 1833px;
+    height: auto;
+    margin: auto;
+    max-width: 97rem;
+    margin-top: 20px;
+    display: flex;
+}
+.line {
+    width: 155px;
+    height: 335px;
+    
+}
+
+ol {
+    color: #535a60;
+    width: 164px;
+    height: 329px;
+    padding-inline-start: 0px;
+    margin-top: 30px;
+}
+
+li{
+    margin-top: 18px;
+}
+
+li :hover {
+    color: black;
+    
+}
+
+.nav-Stack, .nav-Users, .nav-Tags, .nav-Jobs, .nav-Companies {
+    padding-left: 25px;
+}
+
+.vl {
+    border-left: 1px solid #535a60;;
+    height: 500px;
+}
+
+.header {
+    width: 1700px;
+    height: 80px;
+    flex-direction: row;
+    color: #3c4146;
+    font-size: 13px;
+    padding-left: 10px;
+    display: flex;
+    
+}
+
+.question header {
+    width: 1600px;
+    height: 75px;
+    display: flex;
+    
+}
+
+.Ask {
+    width: 100px;
+    height: 34px;
+    padding-left: 410px;
+    margin-top: 30px;
+}
+
+
